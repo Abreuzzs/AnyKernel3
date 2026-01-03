@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=DeltaKernel
+kernel.string=not-Namikaze REVOLUTION
 do.devicecheck=1
 device.name1=earth
 device.name2=aether
